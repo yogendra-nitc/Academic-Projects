@@ -1,0 +1,12 @@
+[submodule "Opinion-Sharing"]
+	path = Opinion-Sharing
+	url = https://github.com/yogendra-nitc/Opinion-Sharing
+[submodule "Better-Half"]
+	path = Better-Half
+	url = https://github.com/yogendra-nitc/Better-Half
+[submodule "i-connect"]
+	path = i-connect
+	url = https://github.com/yogendra-nitc/i-connect
+[submodule "Techfest"]
+	path = Techfest
+	url = https://github.com/yogendra-nitc/Techfest
